@@ -1,0 +1,96 @@
+button {
+  background-color: white;
+}
+
+.css-1r4vtzz {
+  font-size: 12px !important;
+  padding: 0px !important;
+  box-shadow: none !important;
+
+  padding: 0px 4px !important;
+}
+.css-48ayfv {
+  padding: 0px !important;
+  box-shadow: none !important;
+}
+
+.css-1pcexqc-container {
+  width: 135px !important;
+  border: 2px solid black !important;
+  background-color: white !important;
+  max-height: 160px !important;
+  overflow-y: auto;
+}
+
+.css-1vr111p-option input {
+  font-size: 12px !important;
+}
+.css-151xaom-placeholder {
+  font-size: 12px !important;
+}
+
+.css-1jllj6i-control {
+  margin: 0px !important;
+  min-width: 130px !important;
+  max-width: 130px !important;
+  min-height: 10px !important;
+  width: 50px !important;
+  margin-left: 0px !important;
+  border: none !important;
+  background-color: white !important;
+}
+
+.css-1g6gooi {
+  padding: 0px !important;
+}
+.css-6y1x9t-control {
+  min-width: 130px !important;
+  max-width: 130px !important;
+  margin-left: 0px !important;
+  margin-top: 0px !important;
+  border: none !important;
+  outline: none !important;
+  padding-top: 0px !important;
+  font-size: 12px !important;
+}
+
+.css-3esr4u-a11yText {
+  padding: 0px !important;
+  margin: 0px !important;
+  background-color: white !important;
+}
+
+.css-1wy0on6 svg {
+  display: none;
+  height: 20px;
+  width: 20px;
+  padding-top: 0px !important ;
+}
+
+.css-1hwfws3 {
+  padding-top: 0px !important;
+}
+
+.css-11unzgr {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  overflow-x: hidden;
+}
+.css-1vr111p-option {
+  padding: 4px !important;
+  font-size: 12px !important;
+  overflow-x: hidden;
+}
+
+.css-1qprcsu-option {
+  padding: 4px !important;
+  font-size: 12px !important;
+}
+
+.Toastify__toast--error {
+  background-color: crimson;
+}
+
+.Toastify__toast--success {
+  background-color: green;
+}
