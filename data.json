@@ -1,4 +1,7 @@
 {
   "name":"yashverma",
   "secretKey:"ssdjksnkjccnccdvvjn"
+  "build":"webpack serve --dev",
+  "start":"npm start",
+  "eject":"npm eject"
 }
