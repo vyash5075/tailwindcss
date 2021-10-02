@@ -5,6 +5,8 @@ const Lazyloading = () => {
   const [data, setdata] = useState([]);
   const [page, setpage] = useState(1);
   const [loader, setloader] = useState(true);
+  const [limit,setlimit]=useState(10);
+  const [offset,setoffset]=useState(10);
 
   function fetchdata() {
     console.log("yash");
@@ -48,7 +50,11 @@ const Lazyloading = () => {
   useEffect(() => {
     console.log(data.length);
     fetchdata(page);
-  }, []);
+  }, [])
+  
+  useEffect(()=>{
+    setlimit(12);
+  },[])
 
   return (
     <>
