@@ -3,7 +3,7 @@ import {useEffect,useState} from 'react';
 import ImageOne from '../images/imq.jpg'
 import ImageTwo from '../images/im2.jpg'
 export const content = () => {
-    const [viewContent,setViewContent]=useState();
+    const [viewContent,setViewContent]=useState(null);
     return (
         <>
         <div class="menu-card">
