@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-reffered documentation == https://www.ordinarycoders.com/blog/article/reactjs-tailwindcss
+reffered documentation == https://www.ordinarycoders.com/blog/article/reactjs-tailwindcssd
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts to execute
